@@ -11,9 +11,9 @@ UwU - Nơi up code product của Ngọc
 >> Hong có ảnh âu đừng mong ảnh
 
 # Field
-- Backend: Java, PHP, Python
+- Language: Java, PHP, Python, Js, Dart
 - Frontend: Bootstrap, Flutter
-- Framework: Laravel
+- Backend: Laravel
 - Khác: Nếu có đủ thời gian nghiên cứu tài liệu.  
   *Other*: *If i have enough time to research documentation.*
 
@@ -27,3 +27,6 @@ UwU - Nơi up code product của Ngọc
 - Tiếng Anh hơi kém, thông cảm.  
    Sorry for my bad English.
 - **Remote only**
+
+# Main project
+[Tritiumd - Markdown to nice pdf with pandoc](https://github.com/tritiumd)
